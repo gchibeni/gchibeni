@@ -23,7 +23,7 @@
 <p>
   <b>Game Dev</b> &nbsp;·&nbsp; <b>Tech Artist</b> &nbsp;·&nbsp; <b>Technical Director</b>
   <br>
-  <sub>Currently working as a <b>Pipeline TD</b> — São Paulo, Brazil</sub>
+  <sub>Currently working as a <b>Pipeline TD</b></sub>
 </p>
 
 <p>
@@ -95,6 +95,6 @@
 
 <hr>
 
-<sub><i>Made in São Paulo · Somewhere between the DCC and the engine</i></sub>
+<sub><i>Based in São Paulo · Somewhere between the DCC and the engine</i></sub>
 
 </div>
