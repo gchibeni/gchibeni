@@ -89,7 +89,7 @@
 <p>
   Open to freelance tech-art, game dev, tooling work, and always happy to talk pipelines.
   <br>
-  Reach me at <a href="mailto:hello@chibeni.com"><b>my email</b></a>
+  Reach me at <a href="mailto:hello@gchibeni.com"><b>my email</b></a>
   or through <a href="https://www.gchibeni.com/"><b>my website</b></a>.
 </p>
 
