@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/images/banner.png" alt="gchibeni" width="100%">
+<a href="https://www.gchibeni.com/"><img src="assets/images/banner.png" alt="gchibeni" width="100%"></a>
 
 <hr><p>
 
@@ -49,37 +49,37 @@
 <hr><br>
 
 <p>
-  <img alt="Toolbox" src="https://shieldcn.dev/badge/Toolbox:.svg?color=%fff&variant=branded&size=xs&mode=dark">
-  <img alt="null" src="https://shieldcn.dev/badge/.svg?color=%fff&variant=branded&size=xs&mode=dark">
-  <img alt="Unity" src="https://shieldcn.dev/badge/Unity.svg?logo=unity&color=%23222C37&variant=branded&size=xs&mode=dark">
-  <img alt="Unreal" src="https://shieldcn.dev/badge/Unreal.svg?logo=unrealengine&variant=branded&size=xs&mode=dark">
-  <img alt="Blender" src="https://shieldcn.dev/badge/Blender.svg?logo=blender&variant=branded&size=xs&mode=dark">
-  <img alt="Maya" src="https://shieldcn.dev/badge/Maya.svg?logo=autodeskmaya&variant=branded&size=xs&mode=dark">
-  <img alt="Substance 3D" src="https://shieldcn.dev/badge/Substance_3D.svg?color=%23D14836&variant=branded&size=xs&mode=dark">
+  <a href="#badges"><img alt="Toolbox" src="https://shieldcn.dev/badge/Toolbox:.svg?color=%fff&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="null" src="https://shieldcn.dev/badge/.svg?color=%fff&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Unity" src="https://shieldcn.dev/badge/Unity.svg?logo=unity&color=%23222C37&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Unreal" src="https://shieldcn.dev/badge/Unreal.svg?logo=unrealengine&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Blender" src="https://shieldcn.dev/badge/Blender.svg?logo=blender&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Maya" src="https://shieldcn.dev/badge/Maya.svg?logo=autodeskmaya&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Substance 3D" src="https://shieldcn.dev/badge/Substance_3D.svg?color=%23D14836&variant=branded&size=xs&mode=dark"></a>
 </p>
 
 <p>
-  <img alt="Languages" src="https://shieldcn.dev/badge/Languages:.svg?color=%fff&variant=branded&size=xs&mode=dark">
-  <img alt="null" src="https://shieldcn.dev/badge/.svg?color=%fff&variant=branded&size=xs&mode=dark">
-  <img alt="C#" src="https://shieldcn.dev/badge/C%23.svg?logo=dotnet&variant=branded&size=xs&mode=dark">
-  <img alt="C++" src="https://shieldcn.dev/badge/C%2B%2B.svg?logo=cplusplus&variant=branded&size=xs&mode=dark">
-  <img alt="Python" src="https://shieldcn.dev/badge/Python.svg?logo=python&variant=branded&size=xs&mode=dark">
-  <img alt="Rust" src="https://shieldcn.dev/badge/Rust.svg?logo=rust&variant=branded&size=xs&mode=dark">
-  <img alt="TypeScript" src="https://shieldcn.dev/badge/TypeScript.svg?logo=typescript&variant=branded&size=xs&mode=dark">
-  <img alt="Swift" src="https://shieldcn.dev/badge/Swift.svg?logo=swift&variant=branded&size=xs&mode=dark">
-  <img alt="HLSL / Shaders" src="https://shieldcn.dev/badge/HLSL_%2F_Shaders.svg?logo=opengl&variant=branded&size=xs&mode=dark">
+  <a href="#badges"><img alt="Languages" src="https://shieldcn.dev/badge/Languages:.svg?color=%fff&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="null" src="https://shieldcn.dev/badge/.svg?color=%fff&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="C#" src="https://shieldcn.dev/badge/C%23.svg?logo=dotnet&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="C++" src="https://shieldcn.dev/badge/C%2B%2B.svg?logo=cplusplus&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Python" src="https://shieldcn.dev/badge/Python.svg?logo=python&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Rust" src="https://shieldcn.dev/badge/Rust.svg?logo=rust&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="TypeScript" src="https://shieldcn.dev/badge/TypeScript.svg?logo=typescript&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Swift" src="https://shieldcn.dev/badge/Swift.svg?logo=swift&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="HLSL / Shaders" src="https://shieldcn.dev/badge/HLSL_%2F_Shaders.svg?logo=opengl&variant=branded&size=xs&mode=dark"></a>
 </p>
 
 <p>
-  <img alt="Build" src="https://shieldcn.dev/badge/Build_&_Ship:.svg?color=%fff&variant=branded&size=xs&mode=dark">
-  <img alt="null" src="https://shieldcn.dev/badge/.svg?color=%fff&variant=branded&size=xs&mode=dark">
-  <img alt="Tauri" src="https://shieldcn.dev/badge/Tauri.svg?logo=tauri&variant=branded&size=xs&mode=dark">
-  <img alt="Electron" src="https://shieldcn.dev/badge/Electron.svg?logo=electron&variant=branded&size=xs&mode=dark">
-  <img alt="Vite" src="https://shieldcn.dev/badge/Vite.svg?logo=vite&variant=branded&size=xs&mode=dark">
-  <img alt="React" src="https://shieldcn.dev/badge/React.svg?logo=react&variant=branded&size=xs&mode=dark">
-  <img alt="Svelte" src="https://shieldcn.dev/badge/Svelte.svg?logo=svelte&variant=branded&size=xs&mode=dark">
-  <img alt="Three.js" src="https://shieldcn.dev/badge/Three.js.svg?logo=threedotjs&variant=branded&size=xs&mode=dark">
-  <img alt="Node" src="https://shieldcn.dev/badge/Node.svg?logo=nodedotjs&variant=branded&size=xs&mode=dark">
+  <a href="#badges"><img alt="Build" src="https://shieldcn.dev/badge/Build_&_Ship:.svg?color=%fff&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="null" src="https://shieldcn.dev/badge/.svg?color=%fff&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Tauri" src="https://shieldcn.dev/badge/Tauri.svg?logo=tauri&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Electron" src="https://shieldcn.dev/badge/Electron.svg?logo=electron&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Vite" src="https://shieldcn.dev/badge/Vite.svg?logo=vite&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="React" src="https://shieldcn.dev/badge/React.svg?logo=react&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Svelte" src="https://shieldcn.dev/badge/Svelte.svg?logo=svelte&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Three.js" src="https://shieldcn.dev/badge/Three.js.svg?logo=threedotjs&variant=branded&size=xs&mode=dark"></a>
+  <a href="#badges"><img alt="Node" src="https://shieldcn.dev/badge/Node.svg?logo=nodedotjs&variant=branded&size=xs&mode=dark"></a>
 </p>
 
 <hr>
